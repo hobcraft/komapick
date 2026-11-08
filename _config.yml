@@ -1,0 +1,16 @@
+# GitHub Pages の設定。
+#
+# サポートとプライバシーポリシーの公開 URL が要る（App Store の提出用）。
+# アプリ本体はサーバーを持たないので、ページだけをこのリポジトリから出す。
+#
+# **このリポジトリは公開される。アプリのソースや申請メモを入れないこと。**
+#
+# 公開URL: https://hobcraft.github.io/komapick/
+title: KomaPick
+description: 動画から、写真にしたい1枚の候補を自動で並べる iPhone アプリ
+lang: ja
+
+theme: jekyll-theme-primer
+
+exclude:
+  - README.md
