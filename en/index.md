@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KomaPick
-description: "KomaPick suggests still frames from a video and saves the ones you like to Photos. Everything stays on your iPhone."
+description: "KomaPick suggests still frames from a video and saves the ones you like to Photos. Analysis happens on your iPhone."
 lang: en_US
 permalink: /en/
 ---
@@ -10,7 +10,7 @@ permalink: /en/
 
 Meant to take a photo, ended up with a video? KomaPick is an iPhone app that looks through a video and lines up suggested stills, so you can save the ones you like.
 
-**Your video stays on your iPhone.** All analysis happens on the device. No settings, no account, no ads.
+**All analysis happens on your iPhone.** The app does not send your video anywhere. No settings, no account, no ads.
 
 ## What it does
 

@@ -25,7 +25,7 @@ We reply within a few days. For a bug report, it helps a lot to include:
 
 ### Is my video sent anywhere?
 
-No. All analysis happens on your iPhone. The app contains no networking code and no third-party SDKs. Purchases alone go through the App Store.
+The app does not send it anywhere. All analysis happens on your iPhone. The app contains no networking code and no third-party SDKs. Purchases alone go through the App Store. If you use iCloud Photos, syncing follows your iPhone's settings and is separate from the app.
 
 ### Does it change my video?
 
@@ -43,7 +43,7 @@ Suggestions are automatic, so there won't always be one you love. Tap a suggesti
 
 ### It says "Paused"
 
-Analysis stops if you go to the Home Screen or lock your iPhone, and continues when you come back. Please keep the app open until it finishes.
+Analysis stops if you go to the Home Screen or lock your iPhone, and starts again when you come back, sometimes from the beginning. Please keep the app open until it finishes.
 
 ### The video won't load
 
