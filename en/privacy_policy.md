@@ -29,7 +29,7 @@ The app never asks to read your photo library.
 
 - **Videos**: For analysis and saving, the app makes a temporary copy of the video you choose in its temporary folder. Analysis happens only on the device. The copy is deleted when you close the suggestions or choose another video. If a copy is left behind, for example after a forced quit, it is deleted the next time you open the app or its Share screen. Your original video is never changed.
 - **Date and location**: The app reads the date and location recorded in the video you choose and writes them to the photos you save. If you left location out in the options when choosing the video, or the video has none, nothing is written. The app never gets your device's current location.
-- **Save count and purchase state**: The number of free saves used and whether you have purchased are recorded on your device.
+- **Save count and purchase state**: The number of free saves used, whether you have purchased, and whether the first-run intro has been shown are recorded on your device.
 
 The app does not send any of this off your iPhone, and the developer cannot see any of it. If you use iCloud Photos or backups, those follow your iPhone's settings and are separate from the app.
 

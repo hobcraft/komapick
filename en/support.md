@@ -55,7 +55,7 @@ The Share screen has a memory limit, so long videos or high-resolution stills ca
 
 ### I can't save to Photos
 
-Saving needs permission to add photos. Turn on Photos access for KomaPick in the Settings app; the "Open Settings" button in the app's message takes you there. KomaPick only asks to add photos. It never reads your photo library.
+Saving needs permission to add photos. Turn on Photos access for KomaPick in the Settings app; the "Open Settings" button in the app's message takes you there (the Share screen doesn't show this button). KomaPick only asks to add photos. It never reads your photo library.
 
 ### What format are the photos?
 
@@ -77,7 +77,7 @@ Purchases are made in the app itself. Open KomaPick to get to the purchase scree
 
 ### Can I get my purchase back on a new iPhone or after reinstalling?
 
-Yes. Using the same Apple Account, tap the "i" at the top right of the app's first screen, then About, then Restore Purchase. Restore Purchase is also on the purchase screen.
+Yes. Using the same Apple Account, tap the "i" at the top right of the app's first screen to open About, then tap Restore Purchase. Restore Purchase is also on the purchase screen.
 
 ### What languages does it support?
 
