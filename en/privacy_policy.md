@@ -33,6 +33,12 @@ The app never asks to read your photo library.
 
 The app does not send any of this off your iPhone, and the developer cannot see any of it. If you use iCloud Photos or backups, those follow your iPhone's settings and are separate from the app.
 
+## Deleting your information and revoking permission
+
+The developer holds no information about you, so there is nothing for the developer to delete. The records on your iPhone (free saves used, purchase state, whether the first-run intro was shown) are removed when you delete the app. Photos you saved can be deleted in the Photos app. Your purchase stays with your Apple Account, so you can get it back after reinstalling with "Restore Purchase".
+
+To revoke permission to add photos, turn off Photos access for KomaPick in the Settings app.
+
 ## In-app purchase
 
 Purchases are handled by Apple through the App Store. The app never handles payment details such as card numbers. Whether you have purchased is checked using an iOS feature (StoreKit). Apple's privacy policy applies to information about your purchases.
@@ -41,6 +47,12 @@ Purchases are handled by Apple through the App Store. The app never handles paym
 
 There is nothing to share, since the app sends no information anywhere.
 
+## Changes to this policy
+
+If this policy changes, this page is updated along with the date above.
+
 ## Contact
+
+Provided by hobcraft.
 
 Questions about this policy can be sent through the [support page]({{ site.baseurl }}/en/support/).
