@@ -8,7 +8,7 @@ permalink: /en/privacy/
 
 # KomaPick Privacy Policy
 
-Last updated: [公開日]
+Last updated: November 9, 2026
 
 KomaPick ("the app") collects no personal information.
 
