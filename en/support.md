@@ -45,6 +45,10 @@ Suggestions are automatic, so there won't always be one you love. Tap a suggesti
 
 The search stops if you go to the Home Screen or lock your iPhone, and starts again when you come back, sometimes from the beginning. Please keep the app open until it finishes.
 
+### Can I use long videos?
+
+You can choose videos up to 30 minutes long. If a video is longer, the app tells you. Trim it in the Photos app first.
+
 ### The video won't load
 
 Videos in iCloud can take a little while to download. Check your connection and try again. If it still won't open, please try another video.
