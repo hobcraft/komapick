@@ -47,7 +47,7 @@ The search stops if you go to the Home Screen or lock your iPhone, and starts ag
 
 ### Can I use long videos?
 
-You can choose videos up to 30 minutes long. If a video is longer, the app tells you. Trim it in the Photos app first.
+You can choose videos up to 10 minutes long. If a video is longer, the app tells you. Trim it in the Photos app first.
 
 ### The video won't load
 
