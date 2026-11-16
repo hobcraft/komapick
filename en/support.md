@@ -35,7 +35,7 @@ No. Your video is left as it is. The app only saves the frames you choose as new
 
 Short videos get fewer suggestions, and the maximum is 12. Opening from the Share button in Photos gives fewer than opening in the app.
 
-Videos without people, dark videos and very short videos are hard for the app and may produce none. If you see "No shots to show", try a video where people or things are clearly visible.
+Videos without people, dark videos and very short videos are hard for the app and may produce none. If you see "No photos found", try a video where people or things are clearly visible.
 
 ### None of the suggestions is quite right
 
@@ -55,7 +55,7 @@ Videos in iCloud can take a little while to download. Check your connection and 
 
 ### The Share screen says "Open the App Instead"
 
-The Share screen has a memory limit, so long videos or high-resolution stills can be too much for it. Open KomaPick and choose the same video with "Choose a Video".
+The Share screen has a memory limit, so long videos or high-resolution stills can be too much for it. Open KomaPick and pick the same video from the list on the first screen.
 
 ### I can't save to Photos
 
@@ -77,7 +77,7 @@ Seeing every suggestion is free, and you can save 3 stills in total for free. A 
 
 ### I can't buy from the Share screen
 
-Purchases are made in the app itself. Open KomaPick to get to the purchase screen. After that, you can save without limit from the Share screen too.
+Purchases are made in the app itself. Open KomaPick, tap the "i" at the top right of the first screen to open About, then tap Unlock Saving. After that, you can save without limit from the Share screen too.
 
 ### Can I get my purchase back on a new iPhone or after reinstalling?
 
