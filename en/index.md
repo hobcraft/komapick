@@ -14,7 +14,7 @@ Meant to take a photo, ended up with a video? KomaPick is an iPhone app that loo
 
 ## What it does
 
-- Looks through the video you choose and lines up suggested best shots (fewer for short videos, up to 12)
+- Looks through the video you choose and lines up suggested best shots (fewer for short videos, up to 30)
 - Also works from the Share button in Photos
 - Tap a suggestion to enlarge it, then step up to one second before or after it
 - Saves to Photos as full-resolution HEIC, one at a time or in a batch

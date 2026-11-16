@@ -33,7 +33,7 @@ No. Your video is left as it is. The app only saves the frames you choose as new
 
 ### I get few suggestions, or none
 
-Short videos get fewer suggestions, and the maximum is 12. Opening from the Share button in Photos gives fewer than opening in the app.
+Short videos get fewer suggestions, and the maximum is 30. Videos with few people's faces in them (scenery, pets) also get fewer. From the Share button in Photos, the maximum is 8.
 
 Videos without people, dark videos and very short videos are hard for the app and may produce none. If you see "No photos found", try a video where people or things are clearly visible.
 
